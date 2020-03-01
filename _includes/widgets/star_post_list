@@ -1,0 +1,10 @@
+<div class="widget">
+    <div class="widget-title"><i class="icon-star"> 推荐文章</i></div>
+    <ul class="post-list">
+        <li class="post-list-item"><a class="post-list-link" href="http://zhu88.net/post/set-printer-share/">设置打印机共享</a></li>
+    </ul>
+
+    <ul class="post-list">
+        <li class="post-list-item"><a class="post-list-link" href="http://zhu88.net/post/set-print-to-pdf/">置虚拟打印机，打印到PDF</a></li>
+    </ul>
+</div>
