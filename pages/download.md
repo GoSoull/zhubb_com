@@ -6,7 +6,7 @@ permalink: /download/
 
 ### 常用软件
 
-系统工具：[WinNTSetup](http://so.zhu88.net/file/WinNTSetup.rar)&emsp; [Win7Chew-WGA](http://so.zhu88.net/file/Win7Chew-WGA.rar)&emsp; [Oem7F7](http://so.zhu88.net/file/Oem7F7.rar)
+系统工具：[WinNTSetup](http://www.zhu88.net/file/WinNTSetup.rar)&emsp; [Win7Chew-WGA](http://www.zhu88.net/file/Win7Chew-WGA.rar)&emsp; [Oem7F7](http://www.zhu88.net/file/Oem7F7.rar)
 
 ### 操作系统
 
