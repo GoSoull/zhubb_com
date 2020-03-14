@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	"Hello,World!"
+title:	"世界，你好！"
 tags:	Template
 date:	2020-02-20 22:20:00 +0800
 categories:	[日志] 
@@ -9,8 +9,6 @@ categories:	[日志]
 <style>
 video {object-fit:fill; width:80%; height:80%;}
 </style>
-
-### Hello,world!
 
 This is my first blog on [my site](http://zhubb.com/).
 
