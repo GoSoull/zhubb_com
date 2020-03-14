@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 下载
-permalink: /download/
+title: 工具
+permalink: /tools/
 ---
 
 ### 常用软件

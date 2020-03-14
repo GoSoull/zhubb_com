@@ -42,8 +42,8 @@ menu:
   - page: 归档
     directory: archives/
     icon: icon-archive
-  - page: 下载
-    directory: download/
+  - page: 工具
+    directory: tools/
     icon: icon-tags
 #  - page: 留言
 #    directory: guestbook/
