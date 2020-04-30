@@ -1,13 +1,13 @@
 # Site settings
 title: 命运探索
-subtitle: [老猪个人网站]
-keywords: 老猪
+subtitle: [猪爸爸个人网站]
+keywords: 猪爸爸
 description: 命运探索
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.zhubb.com/" # 你的域名
-page_no_title: "老猪的文章" # 文章无标题时默认显示内容
+page_no_title: "猪爸爸的文章" # 文章无标题时默认显示内容
 beian: # "备案号"
-author: 老猪
+author: 猪爸爸
 email: username@gmail.com
 
 # Build settings
