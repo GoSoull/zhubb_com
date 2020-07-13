@@ -1,8 +1,8 @@
 # Site settings
-title: 命运探索
-subtitle: [猪爸爸个人网站]
+title: 探索
+subtitle: [猪爸爸算命网]
 keywords: 猪爸爸
-description: 命运探索
+description: 算命
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.zhubb.com/" # 你的域名
 page_no_title: "猪爸爸的文章" # 文章无标题时默认显示内容
