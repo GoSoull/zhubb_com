@@ -4,7 +4,7 @@ subtitle: [猪爸爸的博客]
 keywords: 猪爸爸
 description: 算命
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.zhubb.com/" # 你的域名
+url: "http://www.zhubb.com/" # 你的域名
 page_no_title: "猪爸爸的文章" # 文章无标题时默认显示内容
 beian: # "备案号"
 author: 猪爸爸
@@ -89,5 +89,3 @@ ga_domain: www.zhubb.com             # 默认的是 auto, 这里我是自定义�
 #  placeholder: say something~~\n - 昵称 为你所要显示的评论的ID；\n - 邮箱 只有后台可见，仅供讨论过程中是否需要交流邮件而设置，请放心填写;\n - 网址 为你的评论的昵称的超链接。\n当然，以上都可以不写，评论依然会显示……
 #  guest_info: nick,mail,link
 #  pageSize: 10
-
-theme: jekyll-theme-cayman
