@@ -11,7 +11,7 @@ permalink: /about/
 
 - 这里将主要分享一些命理和案例。
 
-### 联系
+### 联系我
 
 ![QQ二维码](\assets\imgs\qrcode.jpg)
 
