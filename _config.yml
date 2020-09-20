@@ -17,14 +17,12 @@ plugins:
   - jekyll-paginate
   - jemoji
 
-
 # always get github's error email saying redcarpet is not supported,
 # so change it to kramdown.
 markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM
-
 
 # Pageinate settings
 paginate: 8 # 分页大小
@@ -66,17 +64,29 @@ links: # 链接
 #    url: http://jekyllcn.com/
   - title: Google
     url: https://www.google.com/
+  - title: Yandex
+    url: https://yandex.com/
+  - title: Ask
+    url: https://www.ask.com/
+  - title: Naver
+    url: https://www.naver.com/
+  - title: Yahoo
+    url: https://www.yahoo.co.jp/
+- title: Twitter
+    url: https://twitter.com/
+  - title: Facebook
+    url: https://www.facebook.com/
+  - title: Tumblr
+    url: https://www.tumblr.com/
 
 # Google Analytics
 ga_track_id: UA-158901256-1            # Format: UA-xxxxxx-xx
 ga_domain: www.zhubb.com             # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
-
 # Code hub settings
 #codehub: # 代码仓库
 #  - title: Github
 #    url: https://github.com/google
-
 
 #valine:
 #  enable: true
