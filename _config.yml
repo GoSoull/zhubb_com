@@ -72,7 +72,7 @@ links: # 链接
     url: https://www.naver.com/
   - title: Yahoo
     url: https://www.yahoo.co.jp/
-- title: Twitter
+  - title: Twitter
     url: https://twitter.com/
   - title: Facebook
     url: https://www.facebook.com/
