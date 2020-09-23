@@ -13,7 +13,7 @@ video {object-fit:fill; width:80%; height:80%;}
 - 这是该网站的第一篇文章。
 
 <video id="video" controls="controls" preload="none" poster="/assets/imgs/video.jpg">
-      <source id="mp4" src="http://www.zhu88.net/file/XiangSi.mp4" type="video/mp4"></video>
+      <source id="mp4" src="http://www.zhubb.net/file/XiangSi.mp4" type="video/mp4"></video>
 
 ---
 
@@ -22,10 +22,10 @@ video {object-fit:fill; width:80%; height:80%;}
 {% highlight python %}
 def print_hi(name):
    print("Hi" name)
-print_hi("zhu88")
+print_hi("zhubb")
 {% endhighlight %}
 
 
 
-<h4 align = "right">zhu88.</h4>
+<h4 align = "right">zhubb.</h4>
 
