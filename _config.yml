@@ -1,13 +1,13 @@
 # Site settings
-title: 探索
-subtitle: [猪爸爸的博客]
-keywords: 猪爸爸
+title: 算命
+subtitle: [老姚的兴趣空间]
+keywords: 老姚
 description: 算命
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://zhubb.com/" # 你的域名
-page_no_title: "猪爸爸的文章" # 文章无标题时默认显示内容
+page_no_title: "老姚的文章" # 文章无标题时默认显示内容
 beian: # "备案号"
-author: 猪爸爸
+author: 老姚
 email: username@gmail.com
 
 # Build settings
