@@ -15,10 +15,10 @@ video {object-fit:fill; width:80%; height:80%;}
 
 ---
 
-## 世界，你好！
+## 模板
 
 {% highlight python %}
-这是本网站的第一篇文章。
+这是本网站的第一篇文章...
 {% endhighlight %}
 
 
