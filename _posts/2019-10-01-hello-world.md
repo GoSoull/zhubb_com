@@ -17,15 +17,15 @@ video {object-fit:fill; width:80%; height:80%;}
 
 ---
 
-## Template
+## 模板
 
 {% highlight python %}
-def print_hi(name):
-   print("Hi" name)
+def print_hi(名字):
+   print(你好 名字)
 print_hi("zhubb")
 {% endhighlight %}
 
 
 
-<h4 align = "right">zhubb.</h4>
+<h4 align = "right">zhubb.com</h4>
 
