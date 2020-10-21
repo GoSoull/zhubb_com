@@ -6,7 +6,7 @@ permalink: /tools/
 
 ### 常用软件
 
-系统工具：[WinNTSetup](http://www.zhubb.com/file/WinNTSetup.rar)&emsp; [Win7Chew-WGA](http://www.zhubb.com/file/Win7Chew-WGA.rar)
+系统工具：[WinNTSetup](http://zhubb.net/file/WinNTSetup.rar)&emsp; [Win7Chew-WGA](http://zhubb.net/file/Win7Chew-WGA.rar)
 
 ### 操作系统
 
@@ -24,11 +24,11 @@ CentOS：[下载地址一](http://vault.centos.org)&emsp; [下载地址二](http
 
 <p><a href="ed2k://|file|cn_windows_7_enterprise_with_sp1_x64_dvd_u_677685.iso|3265574912|E9DB2607EA3B3540F3FE2E388F8C53C4|">Windows_7_With_SP1_64位简体中文企业版(3.04GB)</a>
 
-<p><a href="ed2k://|file|cn_windows_10_business_editions_version_1909_updated_jan_2020_x86_dvd_e861101e.iso|3802454016|5B909C955D8A65CA2002D8594D137A63|">Windows_10_(business_editions)_version_1909_(x86)_(Chinese-Simplified)(3.54GB)</a>
+<p><a href="ed2k://|file|cn_windows_10_consumer_editions_version_2004_updated_sep_2020_x86_dvd_8a8fe8c0.iso|3893041152|B6C95CA453EE875C0C4A6F19125FC5D2|/">Windows_10_32位简体中文消费者版(3.63GB)</a>
 
-<p><a href="ed2k://|file|cn_windows_10_business_editions_version_1909_updated_jan_2020_x64_dvd_b3e1f3a6.iso|5311711232|3527D2A9845FF4105F485CC364655B66|">
-Windows_10_(business_editions)_version_1909_(x64)_(Chinese-Simplified)(4.95GB)</a>
+<p><a href="ed2k://|file|cn_windows_10_consumer_editions_version_2004_updated_sep_2020_x64_dvd_049d70ee.iso|5424910336|9100F2CD41FED19B3314FFCF182DF026|/">Windows_10_64位简体中文消费者版(5.05GB)</a>
+  
+  <p><a href="ed2k://|file|cn_windows_10_business_editions_version_2004_updated_sep_2020_x86_dvd_31186d54.iso|3815186432|AD69BE7D54BA87FCDADBDF5054249094|/">Windows_10_32位简体中文企业版(3.55GB)</a>
 
-<p><a href="ed2k://|file|cn_windows_10_consumer_editions_version_1909_updated_jan_2020_x86_dvd_9c50652f.iso|3884539904|0F2E887F2845BCD5C61E99E74D717287|">Windows_10_(consumer_editions)_version_1909_(x86)_(Chinese-Simplified)(3.62GB)</a>
-
-<p><a href="ed2k://|file|cn_windows_10_consumer_editions_version_1909_updated_jan_2020_x64_dvd_47161f17.iso|5417457664|274FEBA5BF0C874C291674182FA9C851|">Windows_10_(consumer_editions)_version_1909_(x64)_(Chinese-Simplified)(5.05GB)</a>
+<p><a href="ed2k://|file|cn_windows_10_business_editions_version_2004_updated_sep_2020_x64_dvd_7134ba4b.iso|5313628160|7CF0E7C3324B4209663B8B971A5ACEF2|/">
+Windows_10_64位简体中文企业版(4.95GB)</a>
