@@ -16,7 +16,7 @@ Ubuntu：[下载地址](http://old-releases.ubuntu.com/releases)
 
 CentOS：[下载地址一](http://vault.centos.org)&emsp; [下载地址二](https://wiki.centos.org/Download)
 
-<p><a href="ed2k://|file|cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso|3420557312|B58548681854236C7939003B583A8078|">Windows_7_With_SP1_64简体中文旗舰版(3.19GB)</a>
+<p><a href="ed2k://|file|cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso|3420557312|B58548681854236C7939003B583A8078|">Windows_7_With_SP1_64位简体中文旗舰版(3.19GB)</a>
 
 <p><a href="ed2k://|file|cn_windows_7_ultimate_with_sp1_x86_dvd_u_677486.iso|2653276160|7503E4B9B8738DFCB95872445C72AEFB|">Windows_7_With_SP1_32位简体中文旗舰版(2.47GB)</a>
 
