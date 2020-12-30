@@ -6,7 +6,7 @@ permalink: /tools/
 
 ### 常用软件
 
-系统工具：[WinNTSetup](http://zhubb.net/file/WinNTSetup.rar)&emsp; [Win7Chew-WGA](http://zhubb.net/file/Win7Chew-WGA.rar)
+系统工具：[WinNTSetup](https://zhubb.com/ss/WinNTSetup.rar)&emsp; [Win7Chew-WGA](https://zhubb.com/ss/Win7Chew-WGA.rar)
 
 ### 操作系统
 
