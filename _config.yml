@@ -56,12 +56,6 @@ menu:
 # Link settings
 links: # 链接
 
-#  - title: ccslience's blog
-#    url: http://ccslience.zhubb.com/
-#  - title: zhu88's github
-#    url: https://github.com/zhubb
-#  - title:
-#    url: http://jekyllcn.com/
   - title: Google
     url: https://www.google.com/
   - title: Yandex
@@ -70,14 +64,10 @@ links: # 链接
     url: https://www.ask.com/
   - title: Naver
     url: https://www.naver.com/
-  - title: Yahoo
-    url: https://www.yahoo.co.jp/
   - title: Twitter
     url: https://twitter.com/
   - title: Facebook
     url: https://www.facebook.com/
-  - title: Tumblr
-    url: https://www.tumblr.com/
 
 # Google Analytics
 ga_track_id: UA-158901256-1            # Format: UA-xxxxxx-xx
