@@ -11,7 +11,7 @@ video {object-fit:fill; width:80%; height:80%;}
 </style>
 
 <video id="video" controls="controls" preload="none" poster="/assets/imgs/video.jpg">
-      <source id="mp4" src="http://www.zhubb.com/ss/XiangSi.mp4" type="video/mp4"></video>
+      <source id="mp4" src="https://zhubb.com/ss/XiangSi.mp4" type="video/mp4"></video>
 
 ---
 
